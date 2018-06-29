@@ -1,0 +1,64 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+#addTrainBtn{
+  background-color: blue;
+  color: white;
+}
+
+
+img{
+  width: auto;
+  height: auto;
+
+  max-width: 75%;
+
+  padding-top: 10%;
+}
+
+
+/* // top of table is white */
+#static-table-header{
+  background-color: #fbfbfb;
+}
+
+table{
+  border: 1px solid #e6e6e6;
+}
+
+/* align table text */
+th{
+  text-align: center;
+  font-weight: bold;
+
+  font-size: 16px;
+}
+
+/* align table text */
+td{
+  text-align: center;
+}
+
+.clock-display{
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.panel-title{
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.panel-heading{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
